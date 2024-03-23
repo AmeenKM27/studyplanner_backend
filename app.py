@@ -16,7 +16,7 @@ db = firestore.client()
 
 API_KEY = 'AIzaSyCE90HdKSc18gr0ZoP3GMqvavHo3AWsB9c'
 
-SEARCH_API_KEY="search-keys.json"
+SEARCH_API_KEY="keys.json"
 CSE_ID="b58c46f14303e42ac"
 
 app = Flask(__name__)
